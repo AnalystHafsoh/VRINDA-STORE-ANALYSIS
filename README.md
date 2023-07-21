@@ -1,7 +1,7 @@
 # VRINDA-STORE-ANALYSIS
 This project is about a clothing brand in India. it's a public data that was sourced online. This analysis and visualization were done on Power bi 
 
-![Vrinda Dashboard]("vrinda-dashboard.png")
+![Vrinda Dashboard](./vrinda-dashboard.png)
 
 ## Data cleaning step
 * checking for duplicate and error
